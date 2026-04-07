@@ -4,13 +4,6 @@
   "builds": [
     { "src": "**/*", "use": "@vercel/static" }
   ],
-   "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "permanent": false
-    }
-  ],
   "routes": [
     {
       "src": "/(.*\\.(js|json|css|png|jpg|svg|woff2?))",

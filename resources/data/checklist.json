@@ -21,6 +21,11 @@
       "nation": "ENG"
     },
     {
+      "club": "Burnley",
+      "update": 1,
+      "nation": "ENG"
+    },
+    {
       "club": "Chelsea",
       "update": 1,
       "nation": "ENG"
@@ -116,6 +121,11 @@
       "nation": "ESP"
     },
     {
+      "club": "Real Betis",
+      "update": 1,
+      "nation": "ESP"
+    },
+    {
       "club": "Real Madrid",
       "update": 1,
       "nation": "ESP"
@@ -197,11 +207,6 @@
     },
     {
       "club": "Bournemouth",
-      "update": 0,
-      "nation": "ENG"
-    },
-    {
-      "club": "Burnley",
       "update": 0,
       "nation": "ENG"
     },
@@ -427,11 +432,6 @@
     },
     {
       "club": "Rayo Vallecano",
-      "update": 0,
-      "nation": "ESP"
-    },
-    {
-      "club": "Real Betis",
       "update": 0,
       "nation": "ESP"
     },

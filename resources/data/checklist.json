@@ -181,7 +181,17 @@
       "nation": "FRA"
     },
     {
+      "club": "Lille",
+      "update": 1,
+      "nation": "FRA"
+    },
+    {
       "club": "Marseille",
+      "update": 1,
+      "nation": "FRA"
+    },
+    {
+      "club": "Monaco",
       "update": 1,
       "nation": "FRA"
     },
@@ -521,11 +531,6 @@
       "nation": "FRA"
     },
     {
-      "club": "Lille",
-      "update": 0,
-      "nation": "FRA"
-    },
-    {
       "club": "Lorient",
       "update": 0,
       "nation": "FRA"
@@ -537,11 +542,6 @@
     },
     {
       "club": "Metz",
-      "update": 0,
-      "nation": "FRA"
-    },
-    {
-      "club": "Monaco",
       "update": 0,
       "nation": "FRA"
     },
